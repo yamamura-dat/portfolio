@@ -8,16 +8,14 @@
 
     <title>プロフィールページ</title>
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/superhero/bootstrap.min.css">
     <style>
         body {
             padding-top: 50px;
-            background-color: lightgray;
         }
 
         .starter-template {
             padding: 40px 40px;
-            background-color: white;
         }
     </style>
 </head>
@@ -48,7 +46,17 @@
         <div class="starter-template">
             <h1>タイトル</h1>
             <p class="lead">世界の皆さん、こんにちは。</p>
+
             <h2 id="works">Works</h2>
+            <div class ="col-sm-6">
+              <h3>作品名</h3>
+              <p>作品概要</p>
+            </div>
+            <div class="col=sm=6">
+              <img class="img-responsive" src="images/image_sample.png" alt="作品名">
+            </div>
+          </div>
+
             <p>説明文：あいうえおあいうえおあいうえお</p>
             <hr>
             <h2 id="skills">Skills</h2>
