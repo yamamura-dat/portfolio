@@ -51,6 +51,7 @@
             <div class ="col-sm-6">
               <h3>作品名</h3>
               <p>作品概要</p>
+              <p><a href="">ゲームをプレイ</a></p>
             </div>
             <div class="col=sm=6">
               <img class="img-responsive" src="images/image_sample.png" alt="作品名">
@@ -60,6 +61,16 @@
             <p>説明文：あいうえおあいうえおあいうえお</p>
             <hr>
             <h2 id="skills">Skills</h2>
+
+            <ul>
+              <li>C / C++</li>
+              <ul>
+                <li>コンソールの作り方</li>
+                <li>基本文法(printf,変数,代入,計算,分岐文,繰り返し)</li>
+                <li>ポインター</li>
+              <li>Unity(C#)</li>
+            </ul>
+
             <p>説明文：あいうえおあいうえおあいうえお</p>
             <div class="row starter-template">
             <a class="btn btn-primary" href="#">Topに戻る</a>
