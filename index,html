@@ -30,7 +30,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Project Nyaan</a>
+                <a class="navbar-brand" href="#">Project Yamamura</a>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
@@ -49,7 +49,7 @@
 
             <h2 id="works">Works</h2>
             <div class ="col-sm-6">
-              <h3>作品名</h3>
+              <h3>作品名：Get Open</h3>
               <p>作品概要</p>
               <p><a href="">ゲームをプレイ</a></p>
             </div>
@@ -58,7 +58,8 @@
             </div>
           </div>
 
-            <p>説明文：あいうえおあいうえおあいうえお</p>
+            <p>操作方法：十字キー</p>
+            <p>操作方法：プレイヤーキャラを操作して時間内にアイテムを集めればクリア</p>
             <hr>
             <h2 id="skills">Skills</h2>
 
@@ -71,7 +72,6 @@
               <li>Unity(C#)</li>
             </ul>
 
-            <p>説明文：あいうえおあいうえおあいうえお</p>
             <div class="row starter-template">
             <a class="btn btn-primary" href="#">Topに戻る</a>
         </div>
